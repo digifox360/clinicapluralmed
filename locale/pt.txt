@@ -1,0 +1,17 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_B31108AA_BF42_AC84_41C2_6E6EA4A39992.label = 1
+panorama_B458342B_BF42_BB84_41D4_A1275C3EB65A.label = 2
+panorama_AF2D3A08_BF4E_6F83_41E4_8A49A7000E1A.label = 3
+panorama_B4552965_BF42_6D8D_41DF_9F27BE97C3BC.label = 4
+
+## Tour
+
+### Description
+tour.description = Clinica Plural Med
+
+### Title
+tour.name = Clinica Plural Med
